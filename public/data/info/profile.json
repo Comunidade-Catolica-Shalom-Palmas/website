@@ -1,11 +1,11 @@
 {
-    "name": "Jonas Einstein",
+    "name": "João Pedro",
     "profilePictureUrl": "images/pictures/avatar.png",
 
     "locales": {
         "en": {
             "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "role": "Desenvolvedor Full Stack Jr"
         },
 
         "es": {
